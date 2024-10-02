@@ -1,0 +1,14 @@
+img{
+  width: 100%;
+}
+
+.card-img{
+  display: flex;
+  justify-content: center;
+  height: 230px;
+}
+
+.sobre{
+  font-size: 14px;
+}
+
